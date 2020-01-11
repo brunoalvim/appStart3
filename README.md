@@ -8,14 +8,14 @@ $ git clone https://github.com/brunoalvim/appStart3.git
 
 ## Instale e Execute
 ```bash
-$ cd appmartscan 
+$ cd appStart3 
 $ npm install
 $ ionic serve 
 ```
 
 ## Adicionar plataformas (Android e iOS)
 ```bash
-$ cd martscan 
+$ cd appStart3
 $ ionic cordova platform add android
 $ ionic cordova platform add ios
 ```
